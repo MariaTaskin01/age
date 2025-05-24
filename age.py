@@ -5,3 +5,5 @@ print (a)
 
 b = 5
 print (b)
+
+c - 8
