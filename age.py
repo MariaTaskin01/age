@@ -1,4 +1,4 @@
 print ("Hello")
 
-age = 5
-print (b)
+a = 10
+print (a)
