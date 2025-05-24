@@ -6,5 +6,4 @@ print (a)
 b = 5
 print (b)
 
-c - 8
-c = 100
+c = 8
